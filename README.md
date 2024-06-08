@@ -22,7 +22,7 @@ items from the shop; particularly when others are botting.
 I made this program many months ago when I was still a complete novice. As a result of that,
 everything is currently hard-coded. This means that, currently, this will ONLY work with titanium, 
 and ONLY work on a 1080p monitor, where Wizard101 is configured to take up the entire screen.
-If you have a 1440p monitor, try running the game windowed with the game pushed all the way into the 
+If you have a higher resloution monitor, try running the game windowed with the game pushed all the way into the 
 top-left corner of your monitor. The program being hard-coded ALSO means that you can only currently 
 search for titanium. This is because the bot always skips to the last page of the shop. The letter 't' occurs
 late enough in the alphabet that the bot can simply skip to the final screen rather than search each page for
