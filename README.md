@@ -7,7 +7,8 @@ TOP LEFT CORNER OF YOUR MONITOR AS FAST AS POSSIBLE. THIS SHOULD ACTIVATE A FAIL
 PROGRAM. I AM NOT LIABLE FOR ANY ACTIONS THE BOT TAKES IF YOU ARE UNABLE TO STOP THE PROGRAM.
 
 This is a bot, made in Python, that purchases titanium from the Wizard101 bazzar. It always attempts to
-purchase the entirety of the bundle that is on sale, so you need to have enough money to buy it. 
+purchase the entirety of the bundle that is on sale, so you need to have enough money to buy it. Note 
+that you need to have PyAutoGUI for this to work.
 
 I do not support botting or cheating in video games, this bot was only made because some people have 
 a slower connection, reaction time, or other reasons that make it difficult to purchase the rare
