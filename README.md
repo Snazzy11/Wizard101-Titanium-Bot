@@ -6,7 +6,7 @@ KNOW, AND IT WILL CONTINUE TO CLICK ABOUT THE SCREEN. IF THIS HAPPENS, TRY TO MO
 TOP LEFT CORNER OF YOUR MONITOR AS FAST AS POSSIBLE. THIS SHOULD ACTIVATE A FAILSAFE THAT SHUTS DOWN THE 
 PROGRAM. I AM NOT LIABLE FOR ANY ACTIONS THE BOT TAKES IF YOU ARE UNABLE TO STOP THE PROGRAM.
 
-This is a bot, made in Python, that purchases titanium from the Wizard101 market. It always attempts to
+This is a bot, made in Python, that purchases titanium from the Wizard101 bazzar. It always attempts to
 purchase the entirety of the bundle that is on sale, so you need to have enough money to buy it. 
 
 I do not support botting or cheating in video games, this bot was only made because some people have 
