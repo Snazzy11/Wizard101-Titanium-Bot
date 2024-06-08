@@ -6,9 +6,14 @@ KNOW, AND IT WILL CONTINUE TO CLICK ABOUT THE SCREEN. IF THIS HAPPENS, TRY TO MO
 TOP LEFT CORNER OF YOUR MONITOR AS FAST AS POSSIBLE. THIS SHOULD ACTIVATE A FAILSAFE THAT SHUTS DOWN THE 
 PROGRAM. I AM NOT LIABLE FOR ANY ACTIONS THE BOT TAKES IF YOU ARE UNABLE TO STOP THE PROGRAM.
 
+TO GET THIS TO WORK: 
+1. You need to have PyAutoGui installed
+2. You need to change the directory on line 10
+3. This was originally coded for a 1080p monitor, and I cannot guarantee it works with other resolutions
+
+
 This is a bot, made in Python, that purchases titanium from the Wizard101 bazzar. It always attempts to
-purchase the entirety of the bundle that is on sale, so you need to have enough money to buy it. Note 
-that you need to have PyAutoGUI for this to work.
+purchase the entirety of the bundle that is on sale, so you need to have enough money to buy it. 
 
 I do not support botting or cheating in video games, this bot was only made because some people have 
 a slower connection, reaction time, or other reasons that make it difficult to purchase the rare
